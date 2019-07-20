@@ -11,3 +11,5 @@ This app will read a sharing URL, detect which platform it comes from, grab the 
 
 Version 1 will be in Python console and Version 2 will be an online Django web app.
 
+EDIT: It doesn't seem possible to search Google Podcasts or Apple Podcasts via browser, so it might not be possible to get the URL to another platform.
+
