@@ -1,7 +1,7 @@
 # podcast-sharing-site
 Make it easy to share podcasts with friends.
 
-This program is intended to make sharing podcasts with people that use different podcast streaming platforms easier.
+## This program is intended to make sharing podcasts with people that use different podcast streaming platforms easier.
 
 I use Google Podcasts on my Android, but many people I want to share podcasts with use iPhones, which aren't supported by Google Podcasts.  Similarly, when I recieve an Apple Podcast URL, I cannot use it because Apple Podcasts isn't supported on Android.  
 
