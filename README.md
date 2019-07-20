@@ -10,6 +10,8 @@ I use Google Podcasts on my Android, but many people I want to share podcasts wi
 
 Each of us have to manually search the podcast show name and title in our podcast streaming platform of choice, which isn't efficient.
 
+This app will scratch that itch.
+
 ## Method
 This app will read a sharing URL, detect which platform it comes from, grab the podcast name and title, search for it on the platform of choice, and return a URL to the same episode on the platform the friend uses, or return a list of URLs and the friend can pick the one from their favorite platform.
 
