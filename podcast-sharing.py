@@ -17,18 +17,18 @@ def podcast_sharing():
     if "podcasts.google.com" in input_url:
         show, episode = get_google_podcast_info(input_html)
     elif "podcasts.apple.com" in input_url:
-        # show, episode = get_apple_podcast_info(input_html) TODO: Add Apple Podcasts function
+        #  show, episode = get_apple_podcast_info(input_html) TODO: Add Apple Podcasts function
     elif "open.spotify.com" in input_url:
-        # TODO: Add Spotify function
+        #  TODO: Add Spotify function
     elif "overcast.fm" in input_url:
-        # TODO: Add Overcast function
+        #  TODO: Add Overcast function
     elif "castro.fm" in input_url:
-        # TODO: Add Castro function
+        #  TODO: Add Castro function
     elif "pca.st" in input_url:
-        # TODO: Add PocketCasts function
+        #  TODO: Add PocketCasts function
     else:
-        # TODO: Raise unsupported site exception
-    # TODO: Raise invalid URL exception
+        #  TODO: Raise unsupported site exception
+    #  TODO: Raise invalid URL exception
     print(show, episode)
 
     # -- Select the output URL platform
